@@ -4,7 +4,7 @@ header('Content-Type: text/event-stream');
 header('Cache-Control: no-cache');
 
 
-$rec = system("/sbin/ifconfig $interface | grep 'TX bytes' | sed -e 's,.*TX bytes:,,' -e 's, .*,,'");
+$rec = system("cat /sys/class/net/{$interface}/statistics/tx_bytes");
 
 // $time = date('r');
 echo "retry: 1000\n";
