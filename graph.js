@@ -293,4 +293,3 @@ var Graph = function(options)
 		this.drawGraph();
 	}
 }
-
