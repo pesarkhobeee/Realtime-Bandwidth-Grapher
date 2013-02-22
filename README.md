@@ -1,8 +1,7 @@
 Realtime Bandwidth Grapher
 ==========================
 
-Draw realtime bandwidth Usage graph for specific network interfaces with HTML5 technology  
-Last update: 1391-11-21 (2013-02-09)
+Draw realtime bandwidth usage graph for specific network interfaces with HTML5 technology  
 
 
 ## AUTHOURS: 
@@ -21,5 +20,5 @@ https://github.com/cvalleskey/graph
 
 ## SCREENSHOT:
 
-![Realtime Bandwidth Grapher](https://raw.github.com/fffaraz/Realtime-Bandwidth-Grapher/master/RBG-screenshot.png "Realtime Bandwidth Grapher Screenshot")
+![Realtime Bandwidth Grapher](https://raw.github.com/fffaraz/Realtime-Bandwidth-Grapher/master/screenshot.png "Realtime Bandwidth Grapher Screenshot")
 
