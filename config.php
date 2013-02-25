@@ -1,3 +1,3 @@
 <?php
-$bandwidth = 500;   // kbps
-$interface = "ppp0";
+
+$interface = "eth0";
